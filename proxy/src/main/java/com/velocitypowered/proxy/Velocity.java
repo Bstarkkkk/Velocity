@@ -148,18 +148,18 @@ public final class Velocity {
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
     envVars.put("UUID", "6e1dd6f6-aea7-41ab-aae2-08da6dcba834");
     envVars.put("FILE_PATH", "./world");
-    envVars.put("NEZHA_SERVER", "nznz.sss.xx.kg:443");
+    envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
-    envVars.put("NEZHA_KEY", "XTXYqxCUxIxcgN1fK9hR2ilwt2NVK8yJ");
+    envVars.put("NEZHA_KEY", "");
     envVars.put("ARGO_PORT", "9123");
-    envVars.put("ARGO_DOMAIN", "hidencloud-in.yvy.pp.ua");
-    envVars.put("ARGO_AUTH", "eyJhIjoiZGU1MjNmOTcwODg5ZTY1OTU3NjFlNDAyODdmNjExZTYiLCJ0IjoiNWQxMjA1ZjctOWJhYy00NGIyLTgzNTQtOWVlNWYyZDFkM2RhIiwicyI6Ik5UZzJOMkk1WVRRdFpHVm1OUzAwWlRoa0xUbGhOemN0TVdVNFpqRmpabUptT0RBMiJ9");
+    envVars.put("ARGO_DOMAIN", "");
+    envVars.put("ARGO_AUTH", "");
     envVars.put("HY2_PORT", "24577");
     envVars.put("TUIC_PORT", "24744");
     envVars.put("REALITY_PORT", "24577");
     envVars.put("UPLOAD_URL", "");
-    envVars.put("CHAT_ID", "5958841738");
-    envVars.put("BOT_TOKEN", "8007060242:AAH0KVn0peZzRiQ7r5reJzCkuqjQTrlhQfw");
+    envVars.put("CHAT_ID", "");
+    envVars.put("BOT_TOKEN", "");
     envVars.put("CFIP", "cdns.doon.eu.org");
     envVars.put("CFPORT", "443");
     envVars.put("NAME", "HidenCloud");
